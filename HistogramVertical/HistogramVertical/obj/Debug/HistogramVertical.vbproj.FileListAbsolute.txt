@@ -1,0 +1,19 @@
+C:\Users\Kyu\AppData\Local\Temporary Projects\HistogramVertical\bin\Debug\HistogramVertical.exe.config
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.exe.config
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.exe
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.pdb
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.xml
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.Resources.resources
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.vbproj.GenerateResource.Cache
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.exe
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.xml
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.exe.config
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.exe
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.xml
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.exe
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\bin\Debug\HistogramVertical.xml
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.Resources.resources
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramVertical\HistogramVertical\obj\Debug\HistogramVertical.vbproj.GenerateResource.Cache

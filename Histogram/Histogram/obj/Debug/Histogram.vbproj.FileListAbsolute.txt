@@ -1,0 +1,15 @@
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\bin\Debug\Histogram.xml
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\obj\Debug\Histogram.vbproj.GenerateResource.Cache
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\obj\Debug\Histogram.xml
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\Histogram\Histogram\obj\Debug\Histogram.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\Histogram\Histogram\bin\Debug\Histogram.exe.config
+H:\Introduction to Programming and Games Design Project\Histogram\Histogram\Histogram\obj\Debug\Histogram.exe
+H:\Introduction to Programming and Games Design Project\Histogram\Histogram\Histogram\obj\Debug\Histogram.xml
+H:\Introduction to Programming and Games Design Project\Histogram\Histogram\Histogram\obj\Debug\Histogram.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\Histogram\Histogram\obj\Debug\ConsoleApplication1.Resources.resources
+H:\Introduction to Programming and Games Design Project\Histogram\Histogram\Histogram\obj\Debug\Histogram.vbproj.GenerateResource.Cache

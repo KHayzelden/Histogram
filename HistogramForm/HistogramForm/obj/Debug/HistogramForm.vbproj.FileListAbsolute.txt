@@ -1,0 +1,20 @@
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\bin\Debug\HistogramForm.exe.config
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\bin\Debug\HistogramForm.exe
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\bin\Debug\HistogramForm.pdb
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\bin\Debug\HistogramForm.xml
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\obj\Debug\HistogramForm.vbproj.GenerateResource.Cache
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\obj\Debug\HistogramForm.exe
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\obj\Debug\HistogramForm.xml
+C:\Users\Kyu\Documents\Visual Studio 2013\Projects\HistogramForm\HistogramForm\obj\Debug\HistogramForm.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\bin\Debug\HistogramForm.exe.config
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\obj\Debug\HistogramForm.exe
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\obj\Debug\HistogramForm.xml
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\obj\Debug\HistogramForm.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\bin\Debug\HistogramForm.exe
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\bin\Debug\HistogramForm.pdb
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\bin\Debug\HistogramForm.xml
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\obj\Debug\WindowsApplication1.Form1.resources
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\obj\Debug\WindowsApplication1.Resources.resources
+H:\Introduction to Programming and Games Design Project\Histogram\HistogramForm\HistogramForm\obj\Debug\HistogramForm.vbproj.GenerateResource.Cache
